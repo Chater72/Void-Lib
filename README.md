@@ -1,4 +1,4 @@
-# ⬡ Void UI Library v5.0
+# ⬡ Void UI Library
 
 > OLED-библиотека для Roblox в стиле Mercury.
 > HSV Color Picker, Live Stats, уведомления, мобильная поддержка.
