@@ -7,5 +7,5 @@
 
 ### Инжектор (Xeno, Solara, Wave):
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tolikzdev/void-ui/main/src.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Chater72/Void-Lib/main/src.lua"))()
 local gui = Library:Create()
